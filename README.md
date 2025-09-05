@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Don Tiago and I'm a Digital Business Developer h2>
+<h2 align="left">Hi 👋! My name is Don Tiago and I'm a Digital Business Developer 
 
 ###
 
