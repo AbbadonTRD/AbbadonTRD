@@ -1,66 +1,62 @@
-<h2 align="left">Hi 👋! My name is Don Tiago and I'm a Digital Business Developer 
+<a href="https://jf-1.duneify.com"><img src="assets/jf1-hero.webp" alt="JFP-1, a pocket music player for Jellyfin" width="100%"></a>
 
-###
+### Hi, I'm Tiago.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbbadonTRD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AbbadonTRD&theme=matrix&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+Third-year Digital Business Developer apprentice at Swisscom, currently in Group Security. I finish in summer 2028.
 
-###
+Outside of work I build things I can hold or host myself. Right now that is JFP-1, a music player I'm designing from the case to the firmware.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+<br>
 
-###
+## JFP-1
 
-<div align="center">
-  <a href="https://www.youtube.com/@DonViews" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/nn8mD8EW" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tiago-cevallos-de-carvalho-13783a271/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="52%" valign="top">
+      <a href="https://jf-1.duneify.com/#inside"><img src="assets/jf1-inside.webp" alt="JFP-1 exploded view"></a>
+    </td>
+    <td width="48%" valign="top">
+      <p>My music lives on a Jellyfin server at home. JFP-1 is how I want to take it with me: synced over Wi-Fi, stored on microSD, played offline. No feed and no algorithm deciding what comes next.</p>
+      <p>It is still a prototype. The first case comes off my 3D printer, the finished version gets an aluminium body.</p>
+      <table>
+        <tr><td><sub>CORE</sub></td><td>ESP32-S3</td></tr>
+        <tr><td><sub>DISPLAY</sub></td><td>2.0" IPS, 240 x 320</td></tr>
+        <tr><td><sub>INPUT</sub></td><td>Touch wheel, centre button, shuffle, repeat, heart</td></tr>
+        <tr><td><sub>AUDIO</sub></td><td>3.5 mm jack, Bluetooth</td></tr>
+        <tr><td><sub>STORAGE</sub></td><td>microSD</td></tr>
+        <tr><td><sub>BODY</sub></td><td>56 x 118 x 19.5 mm</td></tr>
+      </table>
+      <p>
+        <a href="https://jf-1.duneify.com"><b>Website</b></a> &nbsp;·&nbsp;
+        <a href="https://jf-1.duneify.com/#log">Build log</a> &nbsp;·&nbsp;
+        <a href="https://jf-1.duneify.com/#join">Waitlist</a> &nbsp;·&nbsp;
+        <a href="https://github.com/AbbadonTRD/jf1">Repo</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-###
+<br>
 
+## Portfolios
 
-###
+<p>
+  <a href="https://tiago-carvalho.ch"><img src="assets/portfolio-work.webp" alt="tiago-carvalho.ch, project portfolio" width="49%"></a>
+  <a href="https://tiago-cevallos.de"><img src="assets/portfolio-personal.webp" alt="tiago-cevallos.de, private portfolio" width="49%"></a>
+</p>
 
-<br clear="both">
+<br>
 
+## Also on my desk
 
-###
+A homelab that runs Jellyfin, n8n and most of the tools I use every day. Next to it, a Jellyfin music app for iOS, because my favourite client disappeared from the App Store.
+
+<br>
+
+<img src="assets/stack.webp" alt="Stack: TypeScript, JavaScript, React, Next.js, Python, C#, HTML, CSS, Docker, n8n, Jupyter, Anaconda, npm, VS Code, Blender, Canva" width="100%">
+
+<p>
+  <a href="https://www.youtube.com/@DonViews"><img src="assets/social-youtube.webp" alt="YouTube @DonViews" width="32.5%"></a>
+  <a href="https://discord.gg/nn8mD8EW"><img src="assets/social-discord.webp" alt="Discord" width="32.5%"></a>
+  <a href="https://www.linkedin.com/in/tiago-cevallos-de-carvalho-13783a271/"><img src="assets/social-linkedin.webp" alt="LinkedIn" width="32.5%"></a>
+</p>
