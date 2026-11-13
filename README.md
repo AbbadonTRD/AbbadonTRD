@@ -55,7 +55,7 @@ Next to it I'm building a Jellyfin music app for iOS, because my favourite clien
 
 <br>
 
-<img src="assets/stack.webp" alt="Stack: TypeScript, JavaScript, React, Next.js (AI-assisted), Python, HTML, CSS, Docker, n8n, Jupyter, Anaconda, npm, VS Code, Blender, Canva" width="100%">
+<img src="assets/stack.webp" alt="Stack: TypeScript, JavaScript, React, Next.js (written with AI assistance), Python, HTML, CSS, Docker, n8n, Jupyter, Anaconda, npm, VS Code, Blender, Canva" width="100%">
 
 <p>
   <a href="https://www.youtube.com/@DonViews"><img src="assets/social-youtube.webp" alt="YouTube @DonViews" width="32.5%"></a>
