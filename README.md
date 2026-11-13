@@ -47,13 +47,15 @@ Outside of work I build things I can hold or host myself. Right now that is JFP-
 
 <br>
 
-## Also on my desk
+## Homelab
 
-A homelab that runs Jellyfin, n8n and most of the tools I use every day. Next to it, a Jellyfin music app for iOS, because my favourite client disappeared from the App Store.
+<img src="assets/homelab.webp" alt="Homelab rack plan: network, compute, storage and power in a 32 U rack" width="100%">
+
+Next to it I'm building a Jellyfin music app for iOS, because my favourite client disappeared from the App Store.
 
 <br>
 
-<img src="assets/stack.webp" alt="Stack: TypeScript, JavaScript, React, Next.js, Python, C#, HTML, CSS, Docker, n8n, Jupyter, Anaconda, npm, VS Code, Blender, Canva" width="100%">
+<img src="assets/stack.webp" alt="Stack: TypeScript, JavaScript, React, Next.js (AI-assisted), Python, HTML, CSS, Docker, n8n, Jupyter, Anaconda, npm, VS Code, Blender, Canva" width="100%">
 
 <p>
   <a href="https://www.youtube.com/@DonViews"><img src="assets/social-youtube.webp" alt="YouTube @DonViews" width="32.5%"></a>
